@@ -1,6 +1,6 @@
 package org.example.capitulo2;
 
-class Usuario {
+public class Usuario {
     private String nome;
     private int pontos;
     private boolean moderador;
