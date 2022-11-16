@@ -8,6 +8,17 @@ import java.util.function.ToIntFunction;
 
 import static java.util.Comparator.comparing;
 
+
+/*
+ *
+ *
+ * CAPITULO 5:
+ *
+ * Ordenando no Java 8
+ *
+ * */
+
+
 public class Main5 {
 
     public static void main(String[] args){

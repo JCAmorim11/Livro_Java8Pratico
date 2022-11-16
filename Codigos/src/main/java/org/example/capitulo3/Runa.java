@@ -2,6 +2,14 @@ package org.example.capitulo3;
 
 import java.awt.*;
 
+/*
+ *
+ *
+ * CAPITULO 3:
+ *
+ * Interfaces Funcionais
+ *
+ * */
 public class Runa {
     public static void main(String[] args) {
    /*     Runnable r = new Runnable() {

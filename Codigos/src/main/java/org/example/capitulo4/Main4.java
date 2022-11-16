@@ -8,6 +8,15 @@ import java.util.List;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
 
+/*
+ *
+ *
+ * CAPITULO 4:
+ *
+ * Default methods
+ *
+ * */
+
 public class Main4 {
     public static void main(String[] args){
           Usuario user1 = new Usuario("Socrates",150);

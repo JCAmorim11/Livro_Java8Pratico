@@ -5,6 +5,14 @@ public class Usuario {
     private int pontos;
     private boolean moderador;
 
+    public Usuario() {
+
+    }
+
+    public Usuario(String s) {
+        this.nome =s;
+    }
+
     public String getNome() {
         return nome;
     }
@@ -33,5 +41,9 @@ public class Usuario {
         this.nome = nome;
         this.pontos = pontos;
         this.moderador = moderador;
+    }
+
+    public void moderadorMode(){
+        this.setModerador(true);
     }
 }
